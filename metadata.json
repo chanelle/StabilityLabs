@@ -1,0 +1,8 @@
+{
+  "name": "VisionPT: Spatial Physical Therapy",
+  "description": "An immersive physical therapy companion designed for spatial computing, featuring AI-guided exercises and progress tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
