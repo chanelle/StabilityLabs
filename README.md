@@ -50,10 +50,12 @@ VisionPT is a high-fidelity spatial computing prototype designed for the Apple V
 
 To test this on your Mac or Apple Vision Pro:
 
+> Honest status: high-fidelity prototype, not a production app — set up below to explore the flows in Xcode.
+
 1. **Clone the Repo**
    ```bash
-   git clone <your-repo-url>
-   cd vision-pt
+   git clone https://github.com/chanelle/StabilityLabs.git
+   cd StabilityLabs
    ```
 
 2. **Install & Build**
